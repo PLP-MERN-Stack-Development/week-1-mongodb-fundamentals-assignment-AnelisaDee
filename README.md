@@ -84,6 +84,8 @@ db.books.aggregate([
 ])
 🖼️ Screenshot Requirement
 Include a screenshot of your MongoDB Compass → Documents tab showing a sample of your book data in the books collection.
+![Screenshot 2025-06-04 021752](https://github.com/user-attachments/assets/fa6ccbd2-3a31-4fef-a12f-76b85b3fee8d)
+
 
 ✅ Done
  Data Insertion
